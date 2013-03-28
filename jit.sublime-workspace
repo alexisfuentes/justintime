@@ -1,0 +1,1142 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"login",
+				"loginForm"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"Http",
+				"HttpResponseRedirect  (class)"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"rende",
+				"render_to_response  (function)"
+			],
+			[
+				"no",
+				"normpath  (function)"
+			],
+			[
+				"pa",
+				"path  (module)"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"has",
+				"hash_final"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"acces",
+				"acceso"
+			],
+			[
+				"le",
+				"level"
+			],
+			[
+				"ruta",
+				"rutaModelo"
+			],
+			[
+				"jqmheader",
+				"jqmheader:i	jQuery Mobile: Semantic inline header"
+			],
+			[
+				"re",
+				"ready	$(document).ready"
+			],
+			[
+				"tw",
+				"twitter_user"
+			],
+			[
+				"jqmc",
+				"jqmcollapsibleset	jQuery Mobile: Collapsible sets (accordions)"
+			],
+			[
+				"jqmli",
+				"jqmlistview:i	jQuery Mobile: Listview with inset"
+			],
+			[
+				"rgb",
+				"rgba	rgba()"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"mo",
+				"mobile"
+			],
+			[
+				"jqmhe",
+				"jqmheader:i	jQuery Mobile: Semantic inline header"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"enla",
+				"enlaces"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"array_s",
+				"array_shift"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"valida",
+				"validar_pag6"
+			],
+			[
+				"valida_pa",
+				"validar_pag5"
+			],
+			[
+				"ap",
+				"aplicado"
+			],
+			[
+				"otro",
+				"otro_local"
+			],
+			[
+				"validar_",
+				"validar_pag3"
+			],
+			[
+				"laboral",
+				"laboral1"
+			],
+			[
+				"oper",
+				"operando1"
+			],
+			[
+				"dej",
+				"dejar_proy"
+			],
+			[
+				"cargo",
+				"cargo_exp"
+			],
+			[
+				"pue",
+				"puesto1"
+			],
+			[
+				"can",
+				"cantidad1"
+			],
+			[
+				"vali",
+				"validar_pag1"
+			],
+			[
+				"em",
+				"email1"
+			],
+			[
+				"ema",
+				"email1"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"fo",
+				"focus"
+			],
+			[
+				"m",
+				"movil"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"pro",
+				"proyect_name"
+			],
+			[
+				"send",
+				"sendMailTo"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"res",
+				"res"
+			],
+			[
+				"Con",
+				"ConMysql"
+			],
+			[
+				"fe",
+				"fecha_c"
+			],
+			[
+				"ye",
+				"year_c"
+			],
+			[
+				"mes",
+				"mes_c"
+			],
+			[
+				"dia",
+				"dia_c"
+			],
+			[
+				"mysql_n",
+				"mysql_num_rows"
+			],
+			[
+				"ca",
+				"causa"
+			],
+			[
+				"iden",
+				"identificado"
+			],
+			[
+				"bas",
+				"base64_decode"
+			],
+			[
+				"base",
+				"base64_encode"
+			],
+			[
+				"get",
+				"getUrlVars"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"escuelas",
+				"escuelas"
+			],
+			[
+				"el",
+				"elseif	elseif …"
+			],
+			[
+				"reg",
+				"reg"
+			],
+			[
+				"con",
+				"contrasena"
+			],
+			[
+				"verifi",
+				"verificadores"
+			],
+			[
+				"mysql_fec",
+				"mysql_fetch_assoc"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"nom",
+				"nombre"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"Verific",
+				"verificación"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "principal/views.py",
+			"settings":
+			{
+				"buffer_size": 1217,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "principal/forms.py",
+			"settings":
+			{
+				"buffer_size": 222,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "justintime/templates/principal/login.html",
+			"settings":
+			{
+				"buffer_size": 2962,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "principal/urls.py",
+			"settings":
+			{
+				"buffer_size": 199,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "justintime/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 7454,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"f",
+				"Snippet: ModelForm"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"thum",
+				"Snippet: Bootstrap thumbnails"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"cm",
+				"Snippet: cm"
+			],
+			[
+				"bootstrap fo",
+				"Snippet: Bootstrap horizontal form"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"bootp",
+				"Snippet: bootpage"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Alexis/django/blogpy/blog/badmin/forms.py",
+		"/C/Users/Alexis/django/justintime/justintime/templates/principal/login.html",
+		"/C/Users/Alexis/django/blogpy/blog/badmin/views.py",
+		"/C/Users/Alexis/django/justintime/justintime/settings.py",
+		"/C/Users/Alexis/django/justintime/justintime/urls.py",
+		"/C/Users/Alexis/django/justintime/principal/urls.py",
+		"/C/Users/Alexis/django/justintime/justintime/templates/base.html",
+		"/C/Users/Alexis/django/justintime/justintime/templates/principal/index.html",
+		"/C/Users/Alexis/django/justintime/justintime/media/js/html5shiv.js",
+		"/C/Users/Alexis/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/C/Users/Alexis/django/justintime/justintime/media/js/jquery.js",
+		"/C/xampp/htdocs/pag_consejo/views/admin/edit_noticias.phtml",
+		"/C/xampp/htdocs/pag_consejo/views/admin/index.phtml",
+		"/C/xampp/htdocs/pag_consejo/views/admin/edit_exp.phtml",
+		"/C/xampp/htdocs/pag_consejo/views/admin/edit_plan.phtml",
+		"/C/xampp/htdocs/pag_consejo/views/admin/edit_consejo.phtml",
+		"/C/xampp/htdocs/pag_consejo/views/conocenos/consejo_directivo.phtml",
+		"/C/xampp/htdocs/pag_consejo/views/programas/incubadora.phtml",
+		"/C/xampp/htdocs/pag_consejo/application/view.php",
+		"/C/xampp/htdocs/pag_consejo/index.php",
+		"/C/xampp/htdocs/pag_consejo/humans.txt",
+		"/C/Users/Alexis/django/recetario/recetario/settings.py",
+		"/C/Program Files (x86)/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/practica1/views/layout/default/footer.phtml",
+		"/C/Program Files (x86)/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/practica1/views/layout/default/header.phtml",
+		"/C/Program Files (x86)/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/practica1/public/css/main.css",
+		"/C/Program Files (x86)/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/practica1/app/config.php",
+		"/C/Program Files (x86)/PostgreSQL/EnterpriseDB-ApachePHP/apache/www/practica1/controllers/errorController.php",
+		"/C/Users/Alexis/Desktop/config.php",
+		"/C/xampp/htdocs/framework/controllers/loginController.php",
+		"/C/xampp/htdocs/framework/views/layout/default/header.php",
+		"/C/xampp/htdocs/framework/models/registroModel.php",
+		"/C/xampp/htdocs/framework/views/login/index.phtml",
+		"/C/xampp/htdocs/framework/application/controller.php",
+		"/C/xampp/htdocs/framework/application/view.php",
+		"/C/xampp/htdocs/framework/application/session.php",
+		"/C/xampp/htdocs/framework/application/model.php",
+		"/C/xampp/htdocs/framework/models/loginModel.php",
+		"/C/xampp/htdocs/framework/controllers/resgistroController.php",
+		"/C/xampp/htdocs/framework/index.php",
+		"/C/xampp/htdocs/framework/application/hash.php",
+		"/C/xampp/htdocs/framework/application/config.php",
+		"/C/xampp/htdocs/framework/controllers/errorController.php",
+		"/C/xampp/htdocs/framework/views/post/index.phtml",
+		"/C/xampp/htdocs/framework/controllers/postController.php",
+		"/C/xampp/htdocs/framework/views/error/access.phtml",
+		"/C/xampp/htdocs/framework/views/error/index.phtml",
+		"/C/xampp/htdocs/framework/models/postModel.php",
+		"/C/xampp/htdocs/framework/application/DataBase.php",
+		"/C/Users/Alexis/AppData/Roaming/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
+		"/C/xampp/htdocs/pag_consejo/views/conocenos/mision_vision.phtml",
+		"/C/Users/Alexis/AppData/Roaming/Sublime Text 2/Packages/User/bootpage.sublime-snippet",
+		"/C/Users/Alexis/django/blogpy/blog/urls.py",
+		"/C/Users/Alexis/AppData/Roaming/Sublime Text 2/Packages/User/hpy.sublime-snippet",
+		"/C/Users/Alexis/AppData/Roaming/Sublime Text 2/Packages/User/cm.sublime-snippet",
+		"/C/Users/Alexis/AppData/Roaming/Sublime Text 2/Packages/User/urlpy.sublime-snippet",
+		"/C/Users/Alexis/AppData/Roaming/Sublime Text 2/Packages/User/extpy.sublime-snippet",
+		"/C/Users/Alexis/AppData/Roaming/Sublime Text 2/Packages/User/forpy.sublime-snippet",
+		"/C/Users/Alexis/AppData/Roaming/Sublime Text 2/Packages/User/elsepy.sublime-snippet",
+		"/C/Users/Alexis/AppData/Roaming/Sublime Text 2/Packages/User/ifpy.sublime-snippet",
+		"/C/Users/Alexis/AppData/Roaming/Sublime Text 2/Packages/User/bpy.sublime-snippet",
+		"/C/Users/Alexis/AppData/Roaming/Sublime Text 2/Packages/User/html5f.sublime-snippet",
+		"/C/Users/Alexis/workspace/appTwitter/assets/www/css/main.css",
+		"/C/Users/Alexis/workspace/appTwitter/assets/www/index.html",
+		"/C/Users/Alexis/workspace/appTwitter/assets/www/js/main.js",
+		"/C/Users/Alexis/Desktop/tutorialJS/tweets.js",
+		"/C/xampp/htdocs/pag_consejo/application/session.php",
+		"/C/xampp/htdocs/pag_consejo/application/config.php",
+		"/C/xampp/htdocs/pag_consejo/views/layout/default/header.php",
+		"/C/xampp/htdocs/pag_consejo/views/layout/default/footer.php",
+		"/C/xampp/htdocs/pag_consejo/views/index/index.phtml",
+		"/C/xampp/htdocs/pag_consejo/views/contactanos/index.phtml",
+		"/C/xampp/htdocs/pag_consejo/ftpsync.settings",
+		"/C/xampp/htdocs/pag_consejo/application/request.php",
+		"/C/Users/Alexis/Desktop/header.php",
+		"/C/Users/Alexis/Desktop/footer.php",
+		"/C/Users/Alexis/workspace/prueba/assets/www/jquery.mobile/jquery.mobile-1.2.0.css",
+		"/C/Users/Alexis/workspace/prueba/assets/www/jquery.mobile/jquery.mobile-1.1.0.css",
+		"/C/Users/Alexis/AppData/Roaming/Sublime Text 2/Packages/User/autp.sublime-snippet",
+		"/C/Users/Alexis/AppData/Roaming/Sublime Text 2/Packages/User/vp_m.sublime-snippet",
+		"/C/Users/Alexis/AppData/Roaming/Sublime Text 2/Packages/User/vp_m.sublime-snippet.json",
+		"/C/xampp/htdocs/pag_consejo/views/layout/default/css/main.css",
+		"/C/xampp/htdocs/boostrap/index.html",
+		"/C/xampp/htdocs/framework/.htaccess",
+		"/C/Users/Alexis/Desktop/html5/index1.html",
+		"/C/xampp/htdocs/cceweb/css/reset.css",
+		"/C/Users/Alexis/Documents/GitHub/jquery-image-slider-plugin-quake-image-slider/js/quake.slider.js",
+		"/C/Users/Alexis/Documents/GitHub/jquery-image-slider-plugin-quake-image-slider/violet.htm",
+		"/C/xampp/htdocs/cceweb/back.html",
+		"/C/xampp/htdocs/cceweb/css/main.css",
+		"/C/xampp/htdocs/cceweb/protected/views/layouts/main.php",
+		"/C/xampp/htdocs/cceweb/protected/views/site/index.php",
+		"/C/xampp/htdocs/cceweb/protected/config/main.php",
+		"/C/Users/Alexis/Documents/GitHub/jquery-image-slider-plugin-quake-image-slider/js/quake.slider-min.js",
+		"/C/xampp/htdocs/incubadora/anteproyecto2.php",
+		"/C/xampp/htdocs/ccec/model/userModel.php",
+		"/C/xampp/htdocs/ccec/includes/config.php",
+		"/C/xampp/htdocs/ccec/controller/verificacionController.php",
+		"/C/xampp/htdocs/ccec/view/verificacion.phtml",
+		"/C/xampp/htdocs/ccec/public/js/funciones.js",
+		"/C/xampp/htdocs/ccec/public/css/estilos.css",
+		"/C/xampp/htdocs/ccec/controller/resultadoController.php",
+		"/C/xampp/htdocs/ccec/view/resultados.phtml",
+		"/C/xampp/htdocs/mail.php",
+		"/C/xampp/htdocs/ccec/model/quejasModel.php",
+		"/C/xampp/htdocs/ccec/view/home.phtml",
+		"/C/xampp/htdocs/ccec/model/solucionesModel.php",
+		"/C/xampp/htdocs/ccec/controller/detallesController.php",
+		"/C/xampp/htdocs/ccec/view/detalles.phtml",
+		"/C/xampp/htdocs/ccec/view/panel.phtml",
+		"/C/xampp/htdocs/sec/model/loginModel.php",
+		"/C/xampp/htdocs/ccec/controller/cpanelController.php",
+		"/C/xampp/htdocs/ccec/view/admin.phtml",
+		"/C/xampp/htdocs/ccec/controller/adminController.php",
+		"/C/xampp/htdocs/ccec/controller/homeController.php",
+		"/C/xampp/htdocs/ccec/docs/usuarios.php",
+		"/C/xampp/htdocs/ccec/index.php",
+		"/C/xampp/htdocs/sec/lib/config.php",
+		"/C/xampp/htdocs/sec/view/formats/form6/form.phtml",
+		"/C/xampp/htdocs/sec/view/formats/form6/formato.phtml",
+		"/C/xampp/htdocs/sec/view/login.phtml",
+		"/C/xampp/htdocs/sec/view/formats/form1/form.phtml",
+		"/C/xampp/htdocs/sec/controller/form3Controller.php",
+		"/C/xampp/htdocs/sec/model/formModel.php",
+		"/C/xampp/htdocs/sec/controller/form2Controller.php",
+		"/C/xampp/htdocs/sec/controller/form1Controller.php",
+		"/C/xampp/htdocs/sec/controller/formulariosController.php",
+		"/C/xampp/htdocs/sec/view/error.phtml",
+		"/C/xampp/htdocs/sec/model/historialModel.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&& !isset($this->_mensaje)",
+			"exit",
+			"../a",
+			"color",
+			"#menuh",
+			"alert",
+			"cr",
+			"local",
+			"if",
+			"body",
+			"public",
+			"?echo",
+			"Seriales",
+			"?echo",
+			"<?echo",
+			"\">-->\n",
+			"?echo",
+			"<? echo",
+			"<?echo",
+			"<? echo",
+			"<?echo",
+			"?echo",
+			"<? echo",
+			"<?echo",
+			"<? echo",
+			"<?echo",
+			"<? echo",
+			"<?echo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "principal/views.py",
+					"settings":
+					{
+						"buffer_size": 1217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								373,
+								373
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "principal/forms.py",
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "justintime/templates/principal/login.html",
+					"settings":
+					{
+						"buffer_size": 2962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1757,
+								1757
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "principal/urls.py",
+					"settings":
+					{
+						"buffer_size": 199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "justintime/templates/base.html",
+					"settings":
+					{
+						"buffer_size": 7454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7157,
+								7157
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2700.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 79.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"dat",
+				"application/database.php"
+			],
+			[
+				"control",
+				"application/controller.php"
+			],
+			[
+				"confi",
+				"application/config.php"
+			],
+			[
+				"log",
+				"controllers/loginController.php"
+			],
+			[
+				"regis",
+				"models/registroModel.php"
+			],
+			[
+				"head",
+				"views/layout/default/header.php"
+			],
+			[
+				"heade",
+				"views/layout/default/header.php"
+			],
+			[
+				"view",
+				"application/view.php"
+			],
+			[
+				"contro",
+				"application/controller.php"
+			],
+			[
+				"login",
+				"models/loginModel.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"conf",
+				"application/config.php"
+			],
+			[
+				"con",
+				"application/config.php"
+			],
+			[
+				"logi",
+				"controllers/loginController.php"
+			],
+			[
+				"error",
+				"controllers/errorController.php"
+			],
+			[
+				"post",
+				"views/post/index.phtml"
+			],
+			[
+				"pos",
+				"controllers/postController.php"
+			],
+			[
+				"acc",
+				"views/error/access.phtml"
+			],
+			[
+				"sess",
+				"application/session.php"
+			],
+			[
+				"misi",
+				"views/conocenos/mision_vision.phtml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}

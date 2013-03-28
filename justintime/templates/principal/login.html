@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <title>{% block title %}
+    	
+    {% endblock title %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="/media/css/bootstrap.css" rel="stylesheet">
+    <style>
+      .container{
+      	background: #fff;
+      	border: 1px solid #848484;
+      	border-radius: 10px;
+      	box-shadow: 0px 0px 20px rgba(0,0,0,0.6);
+      	max-width: 450px;
+      	margin: 30px auto;
+      	padding: 10px;
+      }
+      body{
+      	background: #E6E6E6;
+      	font-family: 'Merriweather Sans', sans-serif;
+      }
+    </style>
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="/media/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/media/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/media/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/media/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="/media/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="/media/ico/favicon.png">
+
+	<link href='http://fonts.googleapis.com/css?family=Merriweather+Sans' rel='stylesheet' type='text/css'>
+  </head>
+
+  <body>
+    <div class="container">
+      {% if mensaje %}
+        <div class="alert"><button type="button" class="close" data-dismiss="alert">&times;</button>{{mensaje}}</div>
+      {% endif %}
+		<form class="form-horizontal" method="post" name="form" id="form" action="">
+
+			<fieldset>
+				{% csrf_token %}
+				<legend>Ingreso de usuarios</legend>
+				<div class="control-group">
+					<label class="control-label" for="username">Usuario</label>
+					<div class="controls">
+						<input type="text" id="username" name="username">
+					</div>
+				</div>
+				<div class="control-group">
+					<label class="control-label" for="password">Contraseña</label>
+					<div class="controls">
+						<input type="password" id="password" name="password">
+					</div>
+				</div>
+				<div class="form-actions">
+					<button type="submit" class="btn btn-primary">Ingresar</button>
+				</div>
+			</fieldset>
+		</form>
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/media/js/jquery.js"></script>
+    <script src="/media/js/bootstrap.js"></script>
+    <script>
+    	$(document).ready(function() {
+        alert(2);
+    		/*$("#form").submit(function(){
+    			return true;
+    		});*/
+    	});
+    </script>
+  </body>
+</html>
